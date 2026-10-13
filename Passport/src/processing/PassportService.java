@@ -8,6 +8,6 @@ public class PassportService {
         if (NationalID.verify(nin) && IdVault.exists(nin)) {
             return "Passport issued for " + nin;
         }
-        return "Denied";
+        return "Passport denied";
     }
 }
