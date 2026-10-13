@@ -1,0 +1,3 @@
+module Tax {
+    exports tax;
+}

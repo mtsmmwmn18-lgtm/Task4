@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Business/Business.iml" filepath="$PROJECT_DIR$/Business/Business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Identity/Identity.iml" filepath="$PROJECT_DIR$/Identity/Identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Passport/Passport.iml" filepath="$PROJECT_DIR$/Passport/Passport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task4.iml" filepath="$PROJECT_DIR$/Task4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tax/Tax.iml" filepath="$PROJECT_DIR$/Tax/Tax.iml" />
+    </modules>
+  </component>
+</project>
