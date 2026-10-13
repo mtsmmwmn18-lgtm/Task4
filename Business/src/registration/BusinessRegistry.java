@@ -7,6 +7,6 @@ public class BusinessRegistry {
         if (NationalID.verify(ownerNin)) {
             return "Business " + name + " registered";
         }
-        return "Invalid owner ID";
+        return " owner ID is invalid";
     }
 }
